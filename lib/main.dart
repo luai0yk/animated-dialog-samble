@@ -97,11 +97,6 @@ void showMyAnimatedDialog(BuildContext context) {
 }
 
 
-//Open Command Prompt or Terminal: Navigate to the location where you want to create your project.
-//flutter create project_name
-
-
-
 //From bottom to top
 // return SlideTransition(
 // position: Tween<Offset>(
