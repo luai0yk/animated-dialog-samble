@@ -96,7 +96,6 @@ void showMyAnimatedDialog(BuildContext context) {
   );
 }
 
-
 //From bottom to top
 // return SlideTransition(
 // position: Tween<Offset>(
@@ -114,3 +113,8 @@ void showMyAnimatedDialog(BuildContext context) {
 // ).animate(animation),
 // child: child,
 // );
+//  Output:
+//  Conclusion:
+//  In this article, we have learned how to create an animated dialog in Flutter. We have used the  showGeneralDialog()  method to create a dialog and used the  ScaleTransition  widget to animate the dialog.
+//  I hope this article is helpful to you. If you have any queries, please let me know in the comment section.
+//  Related Posts:
